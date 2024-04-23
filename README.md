@@ -8,9 +8,6 @@ This is a simple React application that displays birthdays and allows users to c
 - [Usage]
 - [Copyright]
 
-Contributing
-License
-
 ## Installation
 
 To run this project locally, follow these steps:
