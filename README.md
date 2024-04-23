@@ -4,9 +4,9 @@ This is a simple React application that displays birthdays and allows users to c
 
 ## Table of Contents
 
-- [Installation]
-- [Usage]
-- [Copyright]
+- Installation
+- Usage
+- Copyright
 
 ## Installation
 
@@ -23,4 +23,4 @@ After installing and running the project, you can view the birthdays displayed b
 
 ## Copyright
 
-All project inspiration and material is owned by [https://codedamn.com/learn/reactjs/react-birthday-reminder-project/adding-a-clear-button._bRnO5emnyvKc--2AVawl]
+All project inspiration and material is owned by https://codedamn.com/learn/reactjs/react-birthday-reminder-project/adding-a-clear-button._bRnO5emnyvKc--2AVawl
